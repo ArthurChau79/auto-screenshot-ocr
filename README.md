@@ -14,7 +14,7 @@ To use this tool, you'll need to:
 1. Create a Google Cloud project
 2. Enable the Cloud Vision API
 3. Create API credentials
-4. Set up billing (Each user gets 1000 free units per month for text detection)
+4. Set up billing (Each user gets 1000 free units per month for text detection(May,2025))
 
 ## How it works?
 
@@ -74,3 +74,7 @@ ocr-screenshot-tool/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+Some parts of this project were generated with the help of AI tools.
