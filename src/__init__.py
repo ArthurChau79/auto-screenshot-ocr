@@ -1,0 +1,3 @@
+"""
+OCR Screenshot Tool package.
+""" 
