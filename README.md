@@ -2,19 +2,6 @@
 
 A simple Python application that extracts text from your screenshots using Google Cloud Vision API. You can copy, edit the results and send them to Google or other webs.
 
-## About Google Cloud Vision API
-
-This tool uses Google Cloud Vision API's text detection feature to extract text from images. The API provides:
-- High accuracy text recognition
-- Support for multiple languages
-- Automatic language detection
-- Text detection in various orientations
-
-To use this tool, you'll need to:
-1. Create a Google Cloud project
-2. Enable the Cloud Vision API
-3. Create API credentials
-4. Set up billing (Each user gets 1000 free units per month for text detection(May,2025))
 
 ## How it works?
 
