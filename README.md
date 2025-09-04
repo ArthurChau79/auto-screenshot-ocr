@@ -2,6 +2,11 @@
 
 A simple Python application that extracts text from your screenshots using Google Cloud Vision API. You can copy, edit the results and send them to Google or other webs.
 
+## Key Features
+
+1. **Quick Operation**: Trigger effortlessly using the `Shift + Win + S` shortcut.
+2. **User-Friendly Interface**: Modify and manage extracted text easily through UI.
+3. **Customizable Web Presets**: Tailor web search presets (e.g., Google, Wikipedia, Google Translate) to suit your needs by editing the `src/config.py` file.
 
 ## How it works?
 
@@ -42,6 +47,7 @@ web_presets = {
     "Google Translate": "https://translate.google.com/?text="
 }
 ```
+
 
 ## Project Structure
 ```
